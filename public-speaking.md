@@ -50,7 +50,7 @@
 - ☘️ Organizer: Pertamina University
 - 📄 [Slide Deck](https://drive.google.com/file/d/1BOTEeLXqXT_Hn_TyTn23NVOnsEN8xnQH/view?usp=sharing)
 
-###  Guest Lecturer - Final Project (Mobile Development) - April-May 2021
+###  Guest Lecturer - Final Project Mobile Development Class April-May 2021
 - 📍 Online  
 - 🗣️ Acted as a guest lecturer at Pertamina University, offering feedback, suggestions, and technical advice to students working on their final mobile app projects.
 - ☘️ Organizer: Pertamina University
