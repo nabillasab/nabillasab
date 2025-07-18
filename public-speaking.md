@@ -52,7 +52,7 @@
 
 ###  Guest Lecturer - Final Project Mobile Development Class April-May 2021
 - 📍 Online  
-- 🗣️ Acted as a guest lecturer at Pertamina University, offering feedback, suggestions, and technical advice to students working on their final mobile app projects.
+- 🗣️ Offering feedback, suggestions, and technical advice to students working on their final mobile app projects.
 - ☘️ Organizer: Pertamina University
 
 ###  Speaker - Kartini Day 2017
