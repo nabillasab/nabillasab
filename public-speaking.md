@@ -37,7 +37,7 @@
 - 📍 Online  
 - 🗣️ *Digital Safety, Keamanan Internet: Menghindari Spamming dan Hacking*
 - ☘️ Organizer: Kementrian Komunikasi dan Informatika (KemKominfo) Indonesia
-- 📄 [Slide Deck](https://drive.google.com/file/d/1KbxLdMFgIwxUHwHPMrN2AfT2qhILWXjo/view?usp=sharing)
+- 📄 [Slide Deck](https://drive.google.com/file/d/1hPWwO5SKBKPRbRnj5oPUq7Al_UqG1q3E/view?usp=sharing)
 
 ###  Speaker - International Women's Day 2021
 - 📍 Online  
